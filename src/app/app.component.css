@@ -1,0 +1,14 @@
+nav {
+  background: darkcyan;
+  padding: 20px;
+}
+
+.nav-item {
+  color: white;
+  text-decoration: none;
+  padding: inherit;
+}
+
+.nav-item:hover {
+  background: dimgray;
+}
